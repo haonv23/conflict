@@ -14,7 +14,7 @@ import androidx.compose.ui.tooling.preview.Preview
 import com.example.conflict.ui.theme.ConflictTheme
 
 class User{
-    val userName = "Thao"
+    val userName = "ThaoLT"
     val address = "thanh xuan"
     val date = "12/12"
     val age = 22
