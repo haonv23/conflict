@@ -15,8 +15,9 @@ import com.example.conflict.ui.theme.ConflictTheme
 
 class User{
     val userName = "ThaoLT"
-    val address = "thanh xuan"
     val date = "12/12"
+    val address = "Hoai duc"
+    val isHuman = true
     val age = 22
 }
 
