@@ -20,6 +20,7 @@ class User{
     val isHuman = true
     val age = 22
     val phoneNumber = "09123123"
+    val email = "asgwaf@gmail.com"
 }
 
 class MainActivity : ComponentActivity() {
