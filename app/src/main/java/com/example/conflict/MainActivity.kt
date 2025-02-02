@@ -21,6 +21,7 @@ class User{
     val age = 22
     val phoneNumber = "09123123"
     val email = "asgwaf@gmail.com"
+    val password = "123123"
 }
 
 class MainActivity : ComponentActivity() {
